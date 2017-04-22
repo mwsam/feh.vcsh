@@ -6,3 +6,12 @@ default \
   --no-fehbg \
   --scroll-step 30 \
   --zoom 100
+
+auto-zoom \
+  --auto-zoom \
+  --draw-actions \
+  --draw-filename \
+  --force-aliasing \
+  --fullscreen \
+  --no-fehbg \
+  --scroll-step 30
